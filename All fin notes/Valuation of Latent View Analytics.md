@@ -15,3 +15,4 @@
 	* Market continues to value latent view at a similar multiple of 50 PE 
 * Then : 
 	* Holding the stock @ ₹450 avg for 3-5 yrs can generate ~20-30% Cagr
+this checks git now
