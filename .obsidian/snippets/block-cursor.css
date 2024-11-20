@@ -1,0 +1,14 @@
+.cm-editor .CodeMirror-cursor {
+    width: auto;
+    /* Makes the cursor block-sized */
+    height: 1.4em;
+    /* Adjust this to the size of your font */
+    border-right: none;
+    border-left: 2px solid #000000;
+    /* Cursor color */
+    background-color: transparent;
+    /* Optional: Remove background */
+}
+
+
+

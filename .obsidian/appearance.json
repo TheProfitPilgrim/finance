@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "textFontFamily": "American Typewriter",
+  "accentColor": "#999b12",
+  "baseFontSizeAction": true,
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "block-cursor"
+  ]
+}
