@@ -1,7 +1,7 @@
 This is a note explaining the whole note taking system : 
 
-The Inbox folder is where all new notes are created. 
-You need to go through the Inbox folder periodically and sort it only if its a linkable note - General notes remain there  
+The 'All fin notes' folder is where all new notes are created. 
+The new notes in All fin notes folder will be periodically sorted if its a link note - General notes remain there.  
 
 Ex : If I write a note on Air India's current situation, then I will link it to Tata if tata doesn't already exist, a new note will be created called tata in inbox along with the general note.....
 Later, only the tata note will be moved to group company folder, not the original note - same applies for other things like people etc
