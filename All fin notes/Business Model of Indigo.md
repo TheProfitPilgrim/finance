@@ -3,12 +3,12 @@
 
 ---
 ### Source / Links : 
-[[Indigo_Interglobe Aviation Ltd - LCI]]
-[[Aviation_India - SI]]
+[Indigo_Interglobe Aviation Ltd - LCI](../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md)
+[Aviation_India - SI](../Links/Sectors_Industries/Aviation_India - SI.md)
 
 
 ---
 ### Content : 
 
-1. Indigo is a [[LCC_Low Cost Carrier - BM]] 
+1. Indigo is a [LCC_Low Cost Carrier - BM](../Links/Business Models/LCC_Low Cost Carrier - BM.md) 
 
