@@ -2,7 +2,7 @@
 **Date:** 20-11-2024
 
 ---
-### Source / Links : [Latent View Analytics Ltd - LCI](Latent_View_Analytics_Ltd_-_LCI.md)
+### Source / Links : [Latent View Analytics Ltd - LCI](/Latent View Analytics Ltd - LCI.md)
 
 ---
 ### Content : 
