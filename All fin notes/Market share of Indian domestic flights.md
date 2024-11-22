@@ -13,3 +13,4 @@
 * [Indigo_Interglobe Aviation Ltd - LCI](../Links/Companies%20-%20Individual/Indigo_Interglobe%20Aviation%20Ltd%20-%20LCI.md) ~63%
 * [Air India](../Links/Companies%20-%20Individual/Air%20India.md) ~15%
 * [Vistara - CI](../Links/Companies%20-%20Individual/Vistara%20-%20CI.md) ~10%
+

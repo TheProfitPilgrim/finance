@@ -12,3 +12,4 @@
 
 1. Indigo is a [LCC_Low Cost Carrier - BM](../Links/Business%20Models/LCC_Low%20Cost%20Carrier%20-%20BM.md) 
 
+
