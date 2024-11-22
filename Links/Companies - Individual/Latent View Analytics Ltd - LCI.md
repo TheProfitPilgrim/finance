@@ -1,3 +1,3 @@
 
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Valuation of Latent View Analytics.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Valuation of Latent View Analytics.md)
+[Backlink to ../Links/Companies - Individual/Latent View Analytics Ltd - LCI.md](../Links/Companies - Individual/Latent View Analytics Ltd - LCI.md)

@@ -16,6 +16,6 @@
 
 
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md)
+[Backlink to ../Links/Sources/Podcasts/The Daily Brief.md](../Links/Sources/Podcasts/The Daily Brief.md)
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md)
+[Backlink to ../Links/Sources/Podcasts/The Daily Brief.md](../Links/Sources/Podcasts/The Daily Brief.md)

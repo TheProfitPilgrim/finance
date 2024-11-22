@@ -1,7 +1,7 @@
 
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Business Model of Indigo.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Business Model of Indigo.md)
+[Backlink to ../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md](../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md)
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md)
+[Backlink to ../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md](../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md)
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md)
+[Backlink to ../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md](../Links/Companies - Individual/Indigo_Interglobe Aviation Ltd - LCI.md)

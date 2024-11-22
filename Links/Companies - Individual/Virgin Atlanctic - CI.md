@@ -1,3 +1,3 @@
 
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md)
+[Backlink to ../Links/Companies - Individual/Virgin Atlanctic - CI.md](../Links/Companies - Individual/Virgin Atlanctic - CI.md)

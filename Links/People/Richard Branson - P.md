@@ -1,3 +1,3 @@
 
 
-[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md)
+[Backlink to ../Links/People/Richard Branson - P.md](../Links/People/Richard Branson - P.md)
