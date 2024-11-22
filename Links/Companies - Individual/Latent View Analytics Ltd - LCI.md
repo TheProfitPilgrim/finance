@@ -1,5 +1,3 @@
 
 
----
-### Backlinks
-[Valuation of Latent View Analytics.md](../../All%20fin%20notes/Valuation%20of%20Latent%20View%20Analytics.md)
+[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Valuation of Latent View Analytics.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Valuation of Latent View Analytics.md)

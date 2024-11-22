@@ -1,5 +1,3 @@
 
 
----
-### Backlinks
-[Story of Virgin Airlines.md](../../All%20fin%20notes/Story%20of%20Virgin%20Airlines.md)
+[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Story of Virgin Airlines.md)

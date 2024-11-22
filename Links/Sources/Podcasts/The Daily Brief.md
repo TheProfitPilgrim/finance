@@ -16,7 +16,6 @@
 
 
 
----
-### Backlinks
-[Indigo Business Class Flights.md](../../../All%20fin%20notes/Indigo%20Business%20Class%20Flights.md)
-[Market share of Indian domestic flights.md](../../../All%20fin%20notes/Market%20share%20of%20Indian%20domestic%20flights.md)
+[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Indigo Business Class Flights.md)
+
+[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Market share of Indian domestic flights.md)

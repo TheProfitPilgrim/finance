@@ -1,5 +1,3 @@
 
 
----
-### Backlinks
-[Business Model of Indigo.md](../../All%20fin%20notes/Business%20Model%20of%20Indigo.md)
+[Backlink to C:/Users/sanja/Documents/GitHub/finance\All fin notes\Business Model of Indigo.md](C:/Users/sanja/Documents/GitHub/finance\All fin notes\Business Model of Indigo.md)
