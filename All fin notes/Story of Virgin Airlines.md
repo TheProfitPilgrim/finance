@@ -3,9 +3,9 @@
 
 ---
 ### Source / Links : 
-[[The Dhandho Investor - BK]]
-[[Mohnish Pabrai - P]] , [[Richard Branson - P]]
-[[Aviation_World - SI]], [[Virgin Atlanctic - CI]]
+[The Dhandho Investor - BK](The_Dhandho_Investor_-_BK.md)
+[Mohnish Pabrai - P](Mohnish_Pabrai_-_P.md) , [Richard Branson - P](Richard_Branson_-_P.md)
+[Aviation_World - SI](Aviation_World_-_SI.md), [Virgin Atlanctic - CI](Virgin_Atlanctic_-_CI.md)
 
 
 ---

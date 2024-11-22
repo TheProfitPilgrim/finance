@@ -2,7 +2,7 @@
 **Date:** 20-11-2024
 
 ---
-### Source / Links : [[Latent View Analytics Ltd - LCI]]
+### Source / Links : [Latent View Analytics Ltd - LCI](Latent_View_Analytics_Ltd_-_LCI.md)
 
 ---
 ### Content : 
@@ -13,4 +13,10 @@
 	* Market continues to value latent view at a similar multiple of 50 PE 
 * Then : 
 	* Holding the stock @ ₹450 avg for 3-5 yrs can generate ~20-30% Cagr
+
+
+
+| A   | b   |
+| --- | --- |
+| C   | d   |
 

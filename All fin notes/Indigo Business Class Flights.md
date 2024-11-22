@@ -3,9 +3,9 @@
 
 ---
 ### Source / Links : 
-[[The Daily Brief]] 104
-[[Aviation_India - SI]]
-[[Indigo_Interglobe Aviation Ltd - LCI]]
+[The Daily Brief](The_Daily_Brief.md) 104
+[Aviation_India - SI](Aviation_India_-_SI.md)
+[Indigo_Interglobe Aviation Ltd - LCI](Indigo_Interglobe_Aviation_Ltd_-_LCI.md)
 
 
 
