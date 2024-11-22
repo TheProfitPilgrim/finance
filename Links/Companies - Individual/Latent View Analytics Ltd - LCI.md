@@ -1,3 +1,5 @@
 
 
-[Backlink to ../Links/Companies - Individual/Latent View Analytics Ltd - LCI.md](../Links/Companies - Individual/Latent View Analytics Ltd - LCI.md)
+---
+### Backlinks
+[Valuation of Latent View Analytics.md](../../All%20fin%20notes/Valuation%20of%20Latent%20View%20Analytics.md)

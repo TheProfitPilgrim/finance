@@ -1,3 +1,5 @@
 
 
-[Backlink to ../Links/Business Models/LCC_Low Cost Carrier - BM.md](../Links/Business Models/LCC_Low Cost Carrier - BM.md)
+---
+### Backlinks
+[Business Model of Indigo.md](../../All%20fin%20notes/Business%20Model%20of%20Indigo.md)
