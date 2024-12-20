@@ -11,9 +11,7 @@ Related Links :
 
 * Consider life insurance : if death is independant of the other (unlike covid / war scenario where ) and probability of death is p, the std devaition is 
 $$
-
-	 \sqrt{\frac{p(1-p)}{n}}
-
+\sqrt{\frac{p(1-p)}{n}}
 $$
 * as n increases, it tends to 0
 
