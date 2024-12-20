@@ -71,7 +71,7 @@ EPS over the years (*bars in the following fig.*)
 
 > 3. How has the company performed on Buffett's earnings retention test?  
 
-Buffett's earnings retention test : 
+Buffett's earnings retention test
 Period 2014 - 2024
 1. 
 $$
