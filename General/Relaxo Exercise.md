@@ -58,16 +58,16 @@ EPS over the years (*bars in the following fig.*)
 
  * Why did the earnings drop sharply in the period following it?  
 	AR 2021-2022(pg 10):
-		1. Raw materical price increase - caused margins to tank
+		1. Raw materical price increase - caused margins to tank.
 		What is Relaxo's raw material? 
 		They make 👟 so : 
 		Ethylene-Viny Acetate
 		![img6.png](../z_media/images/img6.png)
 		Sharp increase in price in late 2021 and into 2022
-		2. Covid related : 
+		1. Covid related : 
 			1. Disruptions in supply chain due to lockdown and global logistics issues
 			2. Subdued consumer demand
-		3. Change in GST rate impacted margins
+		2. Change in GST rate impacted margins
 
 > 3. How has the company performed on Buffett's earnings retention test?  
 
@@ -75,7 +75,7 @@ Buffett's earnings retention test :
 Period 2014 - 2024
 1. 
 $$
-\sum_{2015}^{2024} Net \space Profit = 1784\space cr
+\sum_{2015}^{2024} Net \space Profit = 1784 \space cr
 $$
 
 2. 
