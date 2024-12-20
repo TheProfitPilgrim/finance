@@ -3,8 +3,8 @@
 
 ---
 ### Links : 
-[[IT-Software]]
-[[Screen Sessions]]
+[IT-Software](../Sectors/IT-Software.md)  
+[Screen Sessions](../Screen%20Sessions.md)  
 
 ---
 ### Comments
@@ -23,3 +23,10 @@
 
 
 
+
+
+---
+### Backlinks
+
+[Screen Sessions](../Screen%20Sessions.md)  
+[IT-Software](../Sectors/IT-Software.md)  

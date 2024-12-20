@@ -3,8 +3,7 @@
 
 ---
 ### Links : 
-[[Insurance 101]]
-[[Insurance]]
+[Insurance_Learning](../../Learning%20sectors_businesses/Insurance_Learning.md)  
 Video link : https://youtu.be/1KEPCz2dlq0?si=FjuKkG_b1uv9LAvi
 
 ---
@@ -23,3 +22,9 @@ Why look @ this business?
 * 
 
 
+
+
+---
+### Backlinks
+
+[Insurance_Learning](../../Learning%20sectors_businesses/Insurance_Learning.md)  

@@ -4,8 +4,8 @@
 
 ---
 ### Links : 
-[[Screen Sessions]]
-[[IT-Software]]
+[Screen Sessions](../Screen%20Sessions.md)  
+[IT-Software](../Sectors/IT-Software.md)  
 
 ---
 ### Comments :
@@ -66,3 +66,10 @@ Covid and recovery:
 * *2016* : UPI development - Selected by NPCI for implementing UPI
 * 
 
+
+
+---
+### Backlinks
+
+[Screen Sessions](../Screen%20Sessions.md)  
+[IT-Software](../Sectors/IT-Software.md)  

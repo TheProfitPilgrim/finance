@@ -2,11 +2,11 @@
 
 ---
 
-Links : [[Sanjay Bakshi]], [[Ravi Purohit]]
-[[Relaxo Footwears Ltd]], [[Leather]], [[Masterclass with Super-Investors]], [[Rajashekar Iyer]] 
+Links : [Sanjay Bakshi](../People/Sanjay%20Bakshi.md)  , [Ravi Purohit](../People/Ravi%20Purohit.md)  
+[Relaxo Footwears Ltd](../Stocks/Relaxo%20Footwears%20Ltd.md)  , [Leather](../Sectors/Leather.md)  , [Masterclass with Super-Investors](../Sources/Books/Masterclass%20with%20Super-Investors.md)  , [Rajashekar Iyer](../People/Rajashekar%20Iyer.md)   
 
 Document : Relaxo_Cinderella.pdf
-Src : Whatsapp chat - [[Ravi Purohit]] simpl
+Src : Whatsapp chat - [Ravi Purohit](../People/Ravi%20Purohit.md)   simpl
 
 > "In an earlier mail, I had asked all of you to read up the annual reports of the company for the last 10 years."
 

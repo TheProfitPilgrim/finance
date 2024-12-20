@@ -4,8 +4,8 @@ Formerly known as Allsec Technologies Ltd.
 
 ---
 ### Links : 
-[[Screen Sessions]]
-[[IT-Software]]
+[Screen Sessions](../Screen%20Sessions.md)  
+[IT-Software](../Sectors/IT-Software.md)  
 
 ---
 ### Comments
@@ -27,3 +27,10 @@ Formerly known as Allsec Technologies Ltd.
 
 
 
+
+
+---
+### Backlinks
+
+[Screen Sessions](../Screen%20Sessions.md)  
+[IT-Software](../Sectors/IT-Software.md)  

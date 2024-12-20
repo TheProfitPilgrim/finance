@@ -1,7 +1,7 @@
 18/12/2024
+
 Related Links : 
-[[Valuation of Insurance Companies - PPFAS Mututal Fund]]
-[[Insurance]]
+[Insurance_Learning](../Learning%20sectors_businesses/Insurance_Learning.md)  
 
 * Sharing of risks
 * Policy holders have contract with insurance company for some well defined risks and they pay a premium 
