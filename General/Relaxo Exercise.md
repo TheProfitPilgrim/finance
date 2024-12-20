@@ -30,7 +30,7 @@ Group 1:
 
 * Relaxo, over the past *5 years*, has not given almost no return both in absolute and in comparison to the market
 
-![[img1.png]]
+![img1.png](img1.png)
 
 2. Past 10 year performance (*values in %*)
 
@@ -41,10 +41,10 @@ Group 1:
 
 * Relaxo, over the past *10 years*, has outperformed the index by ~3-5 % CAGR
 
-![[img2.png]]
+![img2.png](img2.png)
 
 > How has the company's market cap changed over the last 10 years? 
 
-![[img3.png]]![[img4.png]]
+![img3.png](img3.png)![img4.png](img4.png)
 
 * The MarketCap of the company, has
