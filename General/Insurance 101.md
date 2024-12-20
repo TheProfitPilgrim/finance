@@ -18,7 +18,7 @@ $$
 * as n increases, it tends to 0
 
 Issues
-* *Moral Hazard* : Ppl take more risk because they know they are insured
+* *Moral Hazard* : ppl take more risk because they know they are insured
 * *Selection bias* : Insurance company unable to see all the parameters that define risk
 	* eg. Health insurance attracts sick people - so they ask for medical exam.... if ppl know they are going to be sick and get the insurance, it will result in unusually high no. of claims and destroy the business.  
 
