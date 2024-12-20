@@ -3,7 +3,7 @@ Formerly known as Allsec Technologies Ltd.
 **Date:** 17-12-2024
 
 ---
-### Source / Links : 
+### Links : 
 [[Screen Sessions]]
 [[IT-Software]]
 

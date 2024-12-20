@@ -3,7 +3,7 @@
 16:01
 
 ---
-### Source / Links : 
+### Links : 
 [[Screen Sessions]]
 [[IT-Software]]
 
@@ -56,6 +56,7 @@ The 4 year transition period :
 | ---------- | ---- | ---- | ---- | ---- |
 | Sales      | 76   | 63   | 65   | 60   |
 | Net Profit | -17  | -26  | -28  | -74  |
+
 Covid and recovery: 
 
 | Year       | 2021 | 2022 | 2023 | 2024 |
